@@ -50,3 +50,8 @@ button:hover {
 #reset {
   background-color: rgb(105, 6, 161);
 }
+
+#break {
+  background-color: #ff8906;
+  color: #fffffe;
+}
